@@ -7,13 +7,13 @@ An interactive voice-based spelling game where a bot speaks a word and you spell
 ## 📸 Screenshots
 
 ### Welcome Screen
-![Welcome Screen](./screenshots/welcome.png)
+![Welcome Screen](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/79e8d664-6ce5-4f5a-a35c-3b7d724775c8" />)
 
 ### Game Board
-![Game Board](./screenshots/game.png)
+![Game Board](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/edb1bf16-b66c-443a-ae09-2279c1c9d43e" />)
 
 ### Results Screen
-![Results Screen](./screenshots/results.png)
+![Results Screen](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9f4bdf1c-8d7a-42ab-841e-23fd2fac790b" />)
 
 ---
 
